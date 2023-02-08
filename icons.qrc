@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>assets/icons/dots.png</file>
+        <file>assets/icons/idea.png</file>
+        <file>assets/icons/package.png</file>
+        <file>assets/icons/plant-pot.png</file>
+    </qresource>
+</RCC>
